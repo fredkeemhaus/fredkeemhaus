@@ -55,6 +55,12 @@ Here are some ideas to get you started:
 <a href="https://git-scm.com">
   <img src="https://img.shields.io/badge/Git-20232A?style=flat-square&logo=Git&logoColor=F05032" />
 <a/>
+<a href="https://jestjs.io">
+ <img src="https://img.shields.io/badge/Jest-20232A.svg?&style=flat-square&logo=Jest&logoColor=C21325" />
+<a/>
+<a href="https://testing-library.com/docs/react-testing-library/intro">
+ <img src="https://img.shields.io/badge/TestingLibrary-20232A.svg?&style=flat-square&logo=TestingLibrary&logoColor=E33332" />
+<a/>
   
 <br />
   
